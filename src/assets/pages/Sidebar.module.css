@@ -1,0 +1,15 @@
+.sidebar {
+  background-color: #1e213a;
+  height: 100vh;
+  flex: 1;
+  padding: 9.6rem 4.8rem;
+  display: flex;
+  justify-content: start;
+  align-items: space-evenly;
+  flex-direction: column;
+  gap: 12rem;
+}
+
+.sidebar h1 {
+  color: white;
+}

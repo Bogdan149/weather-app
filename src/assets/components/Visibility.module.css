@@ -1,0 +1,25 @@
+.boxInfoDetails {
+  background-color: #1e213a;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  padding: 2rem 3.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+}
+
+.boxInfoDetails p {
+  font-weight: 600;
+}
+
+.boxInfoDetails h1 {
+  font-size: 3.6rem;
+  font-weight: 700;
+}
+
+.boxInfoDetails h1::first-letter {
+  color: white;
+  font-size: 4.8rem;
+  font-weight: 700;
+}
